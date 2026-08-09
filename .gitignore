@@ -21,3 +21,9 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Claude
+.claude/
+CLAUDE.md
+logs/
+_archive/
