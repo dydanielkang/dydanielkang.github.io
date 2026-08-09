@@ -24,6 +24,9 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
+      {% if author.home %}
+        <li class="author__desktop"><i class="fas fa-fw fa-house-chimney icon-pad-right" aria-hidden="true"></i>{{ author.home }}</li>
+      {% endif %}
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
