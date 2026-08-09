@@ -23,7 +23,7 @@ repository               : "dydanielkang/dydanielkang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bachelor_graduation.png"
+  avatar           : "images/bachelor_graduation.png"
   name             : "Daniel Kang"
   pronouns         : "he/him"  
   bio              : "I am an incoming PhD student in the Department of Linguistics at Stanford University. I am interested in the intersection of cognitive science and artificial intelligence, with a particular focus on mechanistic interpretability."
