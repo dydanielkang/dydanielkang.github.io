@@ -17,9 +17,29 @@ I am also involved in AI safety. I am concerned with both societal and existenti
 ## Topics of Interest
 
 - Current and Past Research: Mechanistic Interpretability, Semantics and Pragmatics, Language Acquisition, Geometry and Graph Theory
-- Other Interests: Comparative Literature and Philology, Critical Theory, Music Theory, Embodied Intelligence
+- Other Interests: Embodied Intelligence, Comparative Literature and Philology, Critical Theory, Music Theory
 
 
 ## Publications
+
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
 
 ## Selected Experiences
