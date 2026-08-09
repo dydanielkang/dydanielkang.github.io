@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Hello there, I'm Daniel!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +12,7 @@ I am an incoming graduate student at Stanford University, in the Department of L
 
 I am interested in the intersection of cognitive science/linguistics and artificial intelligence, with a particular focus on mechanistic interpretability. I believe there is a genuinely profound synergy to be found, but that there is a lot of work to do.
 
-I am also involved in AI safety. I am concerned with both short-term and long-term risks, and I view AI safety issues in the lens of (hyper-)automation.
+I am also involved in AI safety. I am concerned with both short-term and long-term risks, as I view AI safety issues through the broad lens of automation.
 
 ## Topics of Interest
 
