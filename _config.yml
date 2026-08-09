@@ -13,7 +13,7 @@ title                    : "Daniel Kang"
 title_separator          : "-"
 name                     : &name "Daniel Kang"
 description              : &description "Daniel Kang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://dydanielkang.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://dydanielkang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dydanielkang/dydanielkang.github.io"
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=yVM-ErUAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -64,9 +64,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/danikngroo/"
+  instagram        : "danikngroo"
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/dydanielkang/"
+  linkedin         : "dydanielkang"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
