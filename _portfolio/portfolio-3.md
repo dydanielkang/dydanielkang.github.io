@@ -65,6 +65,21 @@ Angelus Ad Virginem Text
 Original Latin | English Translation 
 angelus ad virginem subintrans in conclave<br>virginis formidinem demulcens inquit ave<br>ave regina virginum, caeli terraeque dominum<br>concipies et paries intacta, salutem hominum<br>tu porta caeli facta, medela criminum<br> | This is a blockquote inside a standard table.
 
+<table border="1">
+  <tr>
+    <th>Original Latin</th>
+    <th>English Translation </th>
+  </tr>
+  <tr>
+    <td>
+      angelus ad virginem subintrans in conclave<br>virginis formidinem demulcens inquit ave<br>ave regina virginum, caeli terraeque dominum<br>concipies et paries intacta, salutem hominum<br>tu porta caeli facta, medela criminum<br>
+    </td>
+    <td>
+      First line of detail<br>Second line of detail
+    </td>
+  </tr>
+</table>
+
 <audio controls>
   <source src="/files/Angelus Ad Virginem Piano.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
