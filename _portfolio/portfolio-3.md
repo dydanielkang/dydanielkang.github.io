@@ -25,7 +25,7 @@ Some features:
 
 <blockquote>
 <pre>
-little tree - E.E. Cummings
+**little tree** *by E.E. Cummings*
 
 little tree
 little silent Christmas tree
