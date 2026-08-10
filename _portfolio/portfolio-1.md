@@ -1,6 +1,6 @@
 ---
 title: "Echo's Heartbreak"
-excerpt: "Classical composition performed at 2024 Fermata Spring Concert.<br/><img src='/images/echo_and_narcissus.png'>"
+excerpt: "Classical composition performed at 2024 Fermata Spring Concert.<br/><img src='/images/echo_and_narcissus.png' width='300'>"
 collection: portfolio
 ---
 
