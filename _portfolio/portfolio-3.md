@@ -32,7 +32,7 @@ Some features:
 > 
 > who found you in the green forest  
 > and were you very sorry to come away?  
-> see&emsp;&emsp;&ensp;i will comfort you  
+> see&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;i will comfort you  
 > because you smell so sweetly  
 > 
 > i will kiss your cool bark  
