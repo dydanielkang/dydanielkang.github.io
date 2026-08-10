@@ -9,6 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+  .cv-profile-header { margin-bottom: 1.5em; }
+  .cv-profile-header h2 { margin-bottom: 0.1em; }
+  .cv-profile-bio { margin: 0.3em 0 0.6em; }
+  .cv-profile-meta, .cv-profile-links { list-style: none; margin: 0; padding: 0; }
+  .cv-profile-meta li, .cv-profile-links li { display: inline-block; margin: 0 1em 0.4em 0; }
+</style>
+
+<div class="cv-profile-header">
+  <h2>{{ site.author.name }}</h2>
+  {% if site.author.bio %}<p class="cv-profile-bio">{{ site.author.bio }}</p>{% endif %}
+
+  <ul class="cv-profile-meta">
+    {% if site.author.employer %}<li><i class="fas fa-fw fa-building-columns"></i> {{ site.author.employer }}</li>{% endif %}
+    {% if site.author.location %}<li><i class="fas fa-fw fa-location-dot"></i> {{ site.author.location }}</li>{% endif %}
+    {% if site.author.email %}<li><i class="fas fa-fw fa-envelope"></i> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>{% endif %}
+  </ul>
+
+  <ul class="cv-profile-links">
+    {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a></li>{% endif %}
+    {% if site.author.orcid %}<li><a href="{{ site.author.orcid }}" target="_blank">ORCID</a></li>{% endif %}
+    {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}" target="_blank">GitHub</a></li>{% endif %}
+    {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank">LinkedIn</a></li>{% endif %}
+  </ul>
+</div>
+
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
