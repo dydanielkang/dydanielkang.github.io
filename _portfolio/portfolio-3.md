@@ -50,9 +50,16 @@ Some features:
 ### Piano Arrangement of Angelus Ad Virginem
 
 This is probably my favorite Christmas hymn. I added some experimental accompaniments to the melody:
-* The first verse is accompanied by poppy rhythmic chords that emphasize rising half tones.
+* The first verse is accompanied by poppy rhythmic chords that emphasize chromaticity.
 * The second verse is accompanied by arpeggiated chords emphasizing falling half tones.
 * The incomplete third verse uses the whole tone scale and other dissonant intervals.
+
+Angelus Ad Virginem Text
+| Original Latin | English Translation |
+| --- | --- |
+| angelus ad virginem subintrans in conclave<br>virginis formidinem demulcens inquit ave<br>ave regina virginum, caeli terraeque dominum<br>concipies et paries intacta, salutem hominum<br>tu porta caeli facta, medela criminum<br> | <blockquote>This is a blockquote inside a standard table.
+
+hello</blockquote> |
 
 <audio controls>
   <source src="/files/Angelus Ad Virginem Piano.mp3" type="audio/mpeg">
