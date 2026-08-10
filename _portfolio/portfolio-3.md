@@ -23,8 +23,8 @@ Some features:
 - Diminished chords to give a sense of creepy playfulness
 - The piece almost completes a whole cycle of fifths over 2 minutes, and frequent modulation is intended to give a sense of freshness, hopefully like how children view the world
 
+> **little tree** *by E.E. Cummings*
 <blockquote>
-**little tree** *by E.E. Cummings*
 <pre>
 
 little tree
