@@ -3,7 +3,7 @@ title: "Propositional anaphora and alternatives in the semantics of in which cas
 collection: publications
 category: conferences
 permalink: _publications/Propositional anaphora and alternatives in the semantics of in which case
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This paper is about non-atomic appositives in dynamic semantics.
 date: 2025-12-31
 venue: 'Semantics and Linguistic Theory'
 paperurl: 'https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/35.018'

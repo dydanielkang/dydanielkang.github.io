@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Echo's Heartbreak"
+excerpt: "Classical composition performed at 2024Fermata Spring Concert.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Classical composition performed at 2024Fermata Spring Concert. The concert painted the life of Echo, and this piece represented her heartbreak from being rejected by Narcissus. There is the grief theme that begins the piece, which transforms throughout the piece. The Nymph theme enters in the middle, and the two themes mix and changes instruments as the music comes to an end.
+
+The audio attached here is a MIDI generated file. There was unfortunately no good audio recording of the concert.
+
+<audio controls>
+  <source src="files/Echo's Heartbreak.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
