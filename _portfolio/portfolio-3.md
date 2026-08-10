@@ -1,6 +1,6 @@
 ---
 title: "Three Piano Compositions"
-excerpt: "Three piano pieces I composed for fun.<br/><img src='/images/A bottle floating in sea.jpg' height='400'>"
+excerpt: "Three piano pieces I composed for fun.<br/><img src='/images/A bottle floating in sea.jpg' style='height:400px; width:auto;'>"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ collection: portfolio
 I experimented mixing bubbly left hand chords with wavy right hand melody. Chord progressions were designed to be soft and melancholy to represent forgotten hope that is also safely persevering somewhere.
 
 <audio controls>
-  <source src="http://dydanielkang.github.io/files/An_Empty_Bottle_Floating_in_the_Ocean - Final.mp3" type="audio/mpeg">
+  <source src="/files/An_Empty_Bottle_Floating_in_the_Ocean - Final.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -43,7 +43,7 @@ only don't be afraid
 ...
 
 <audio controls>
-  <source src="http://dydanielkang.github.io/files/Little Tree Audio.wav3" type="audio/wav3">
+  <source src="/files/Little Tree Audio.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -55,6 +55,6 @@ This is probably my favorite Christmas hymn. I added the melody to some experime
 * The incomplete third verse uses the whole tone scale and other dissonant intervals.
 
 <audio controls>
-  <source src="http://dydanielkang.github.io/files/Angelus Ad Virginem Piano.mp3" type="audio/mpeg">
+  <source src="/files/Angelus Ad Virginem Piano.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
