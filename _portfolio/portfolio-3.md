@@ -23,6 +23,8 @@ Some features:
 - Diminished chords to give a sense of creepy playfulness
 - The piece almost completes a whole cycle of fifths over 2 minutes, and frequent modulation is intended to give a sense of freshness, hopefully like how children view the world
 
+<blockquote>
+<pre>
 little tree - E.E. Cummings
 
 little tree
@@ -41,6 +43,8 @@ just as your mother would,
 only don't be afraid
 
 ...
+</pre>
+</blockquote>
 
 <audio controls>
   <source src="/files/Little Tree Audio.wav" type="audio/wav">
