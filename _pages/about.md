@@ -33,10 +33,10 @@ Feel free to reach out to me about anything. I am always happy to connect!
 {% if post.category != category[0] %}
 {% continue %}
 {% endif %}
-{% unless title_shown %}
+<!-- {% unless title_shown %}
 <h2>{{ category[1].title }}</h2><hr />
 {% assign title_shown = true %}
-{% endunless %}
+{% endunless %} -->
 {% include archive-single.html %}
 {% endfor %}
 {% endfor %}

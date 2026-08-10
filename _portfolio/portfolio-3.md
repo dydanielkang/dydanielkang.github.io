@@ -19,28 +19,28 @@ A friend Luca Iallonardi had an awesome project of a choral piece based on the p
 
 Some features:
 - Repeating minor 3rd intervals to mimic children singing (Luca's idea)
-- Succession of half steps to sound childish and imitate snow
+- Succession of half steps to mimic children stepping on snow and giggling
 - Diminished chords to give a sense of creepy playfulness
 - The piece almost completes a whole cycle of fifths over 2 minutes, and frequent modulation is intended to give a sense of freshness, hopefully like how children view the world
 
-> **little tree** *by E.E. Cummings*
+> **little tree** *by E.E. Cummings*  
 >
-> little tree
-> little silent Christmas tree
-> you are so little
-> you are more like a flower
+> little tree  
+> little silent Christmas tree  
+> you are so little  
+> you are more like a flower  
 > 
-> who found you in the green forest
-> and were you very sorry to come away?
-> see          i will comfort you
-> because you smell so sweetly
+> who found you in the green forest  
+> and were you very sorry to come away?  
+> see\ \ \ \ \ \ \ \ \ \ i will comfort you  
+> because you smell so sweetly  
 
-> i will kiss your cool bark
-> and hug you safe and tight
-> just as your mother would,
-> only don't be afraid
+> i will kiss your cool bark  
+> and hug you safe and tight  
+> just as your mother would,  
+> only don't be afraid  
 > 
-> ...
+> ...  
 
 <audio controls>
   <source src="/files/Little Tree Audio.wav" type="audio/wav">
