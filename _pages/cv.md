@@ -9,10 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- <style>
+  .cv-profile-header { margin-bottom: 1.5em; }
+  .cv-profile-header h2 { margin-bottom: 0.1em; }
+  .cv-profile-bio { margin: 0.3em 0 0.6em; }
+  .cv-profile-contact { list-style: none; margin: 0 0 0.8em; padding: 0; }
+  .cv-profile-contact li { display: block; margin-bottom: 0.3em; }
+  .cv-profile-links { list-style: none; margin: 0; padding: 0; }
+  .cv-profile-links li { display: inline-block; margin: 0 1.2em 0.4em 0; }
+</style>
+
+<div class="cv-profile-header">
+
+  <ul class="cv-profile-contact">
+    {% if site.author.email %}<li><i class="fas fa-fw fa-envelope"></i> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>{% endif %}
+    {% if site.author.phone %}<li><i class="fas fa-fw fa-phone"></i> {{ site.author.phone }}</li>{% endif %}
+    {% if site.author.location %}<li><i class="fas fa-fw fa-location-dot"></i> {{ site.author.location }}</li>{% endif %}
+  </ul>
+
+  <ul class="cv-profile-links">
+    {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}" target="_blank"><i class="ai ai-google-scholar ai-fw"></i> Google Scholar</a></li>{% endif %}
+    {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-fw fa-github"></i> GitHub</a></li>{% endif %}
+    {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin"></i> LinkedIn</a></li>{% endif %}
+  </ul>
+</div> -->
+
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>
+<br>
 
 Education
 ======
@@ -20,6 +46,7 @@ Education
 * M.S. in Computer Science, Brown University, 2026
 * B.S. in Mathematics and Computer Science, Brown University, 2025
 * B.A. in Linguistics, Brown University, 2025
+<br>
 
 Research Experience: CS & Math
 ======
@@ -34,6 +61,7 @@ Research Experience: CS & Math
   * Informally shared work at Mathematikon in Heidelberg, Germany
 * 2020-2022: Johns Hopkins University
   * Proved a theorem on random graphs that entropy is the upper bound of the graph’s heterogeneity coefficient, starting a research project on a new information metric applicable to Information Theory and Machine Learning
+<br>
 
 Research Experience: Linguistics & Others
 ======
@@ -51,6 +79,7 @@ Research Experience: Linguistics & Others
   * Recruited participants and conducted studies for experiments designed by PhD students
   * Created stimuli for language acquisition experiments using JavaScript and React
   * Automated a data pipeline to gather and process data for 500+ children born across Rhode Island each month for research participant outreach, minimizing hours of manual work for the lab
+<br>
 
 Writing & Communication
 =====
@@ -66,7 +95,7 @@ Writing & Communication
   * Managed and automated submission outreach to dozens of schools
 * 2022-2023: Future of Sustainable Investment Conference
   * Planned and coordinated an annual sustainable finance conference with over 27 speakers and 200 attendees as a member of the strategy team, by selecting speaker topics, allocating the budget, and handling logistics before and during the conference
-
+<br>
 
 Leadership and Service
 =====
@@ -77,7 +106,7 @@ Leadership and Service
 * 2023-2026: Housing Opportunities for People Everywhere
   * Participated in weekly research, political campaigns, and community education to help pass affordable housing laws in Provience, RI
   * Sourced and delivered food, hygiene products, and necessities, and found temporary housing for people in need
-
+<br>
 
 Skills
 ======
