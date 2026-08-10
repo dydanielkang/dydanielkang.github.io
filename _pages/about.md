@@ -15,35 +15,35 @@ redirect_from:
 
 ⚠️ I am also involved in AI safety. I am concerned with both societal and existential risks, as I view AI safety issues through the broad lens of automation.
 
-🤝 Feel free to reach out to me about anything. I am always happy to connect!
+Feel free to reach out to me about anything. I am always happy to connect!
 
 ## Topics of Interest
 
 🔬 Current and Past Research: Mechanistic Interpretability, Semantics and Pragmatics, Language Acquisition, Geometry and Graph Theory
 
-🎈 Other Interests: Embodied Intelligence, Comparative Literature and Philology, Critical Theory, Music Theory
+🎈 Other Interests: Comparative Literature and Philology, Critical Theory, Music Theory
 
 
 ## Publications
 
 {% if site.publication_category %}
-{% for category in site.publication_category %}
-{% assign title_shown = false %}
-{% for post in site.publications reversed %}
-{% if post.category != category[0] %}
-{% continue %}
-{% endif %}
-{% unless title_shown %}
-<h2>{{ category[1].title }}</h2><hr />
-{% assign title_shown = true %}
-{% endunless %}
-{% include archive-single.html %}
-{% endfor %}
-{% endfor %}
+  {% for category in site.publication_category %}
+  {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+    {% unless title_shown %}
+      <h2>{{ category[1].title }}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
 {% else %}
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
-{% endfor %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endif %}
 
 ## Selected Experiences
