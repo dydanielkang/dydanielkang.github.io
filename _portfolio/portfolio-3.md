@@ -54,7 +54,8 @@ This is probably my favorite Christmas hymn. I added some experimental accompani
 * The second verse is accompanied by arpeggiated chords emphasizing falling half tones.
 * The incomplete third verse uses the whole tone scale and other dissonant intervals.
 
-Angelus Ad Virginem Text<br>
+Angelus Ad Virginem Text
+
 | Original Latin | English Translation |
 | --- | --- |
 | angelus ad virginem subintrans in conclave<br>virginis formidinem demulcens inquit ave<br>ave regina virginum, caeli terraeque dominum<br>concipies et paries intacta, salutem hominum<br>tu porta caeli facta, medela criminum<br> | angel to the virgin, secretly entering her room<br>soothing the virgin's fear, he began, "Hello"<br>"Hello, the queen of the virgins, the Lord of Heaven and Earth<br>you will conceive and deliver intact, savior of mankind<br>You are made the gate to Heaven, the remedy of sins"<br> |
