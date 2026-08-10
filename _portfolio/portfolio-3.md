@@ -1,12 +1,12 @@
 ---
 title: "Three Piano Compositions"
-excerpt: "Three piano pieces I composed for fun.<br/><img src='/images/A bottle floating in sea.jpg' style='height:400px; width:auto;'>"
+excerpt: "Three short piano pieces I composed for fun.<br/><img src='/images/A bottle floating in sea.jpg' style='height:400px; width:auto;'>"
 collection: portfolio
 ---
 
 ### An Empty Bottle Floating in the Ocean
 
-I experimented mixing bubbly left hand chords with wavy right hand melody. Chord progressions were designed to be soft and melancholy to represent forgotten hope that is also safely persevering somewhere.
+I experimented with mixing bubbly left hand chords and wavy right hand melody. Chord progressions were designed to be soft and melancholy to represent forgotten hope that is also quietly persevering somewhere.
 
 <audio controls>
   <source src="/files/An_Empty_Bottle_Floating_in_the_Ocean - Final.mp3" type="audio/mpeg">
@@ -21,7 +21,7 @@ Some features:
 - Repeating minor 3rd intervals to mimic children singing (Luca's idea)
 - Succession of half steps to mimic children stepping on snow and giggling
 - Diminished chords to give a sense of creepy playfulness
-- The piece almost completes a whole cycle of fifths over 2 minutes, and frequent modulation is intended to give a sense of freshness, hopefully like how children view the world
+- The piece almost completes a whole cycle of fifths over 2 minutes, and the frequent modulation is intended to give a sense of perpetual novelty, like how children experience the world
 
 > **little tree** *by E.E. Cummings*  
 >
@@ -49,7 +49,7 @@ Some features:
 
 ### Piano Arrangement of Angelus Ad Virginem
 
-This is probably my favorite Christmas hymn. I added the melody to some experimental accompaniments.
+This is probably my favorite Christmas hymn. I added some experimental accompaniments to the melody:
 * The first verse is accompanied by poppy rhythmic chords that emphasize rising half tones.
 * The second verse is accompanied by arpeggiated chords emphasizing falling half tones.
 * The incomplete third verse uses the whole tone scale and other dissonant intervals.
