@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: false
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<style>
+<!-- <style>
   .cv-profile-header { margin-bottom: 1.5em; }
   .cv-profile-header h2 { margin-bottom: 0.1em; }
   .cv-profile-bio { margin: 0.3em 0 0.6em; }
@@ -32,13 +32,12 @@ redirect_from:
     {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-fw fa-github"></i> GitHub</a></li>{% endif %}
     {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin"></i> LinkedIn</a></li>{% endif %}
   </ul>
-</div>
+</div> -->
 
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>
-<br>
 
 Education
 ======
