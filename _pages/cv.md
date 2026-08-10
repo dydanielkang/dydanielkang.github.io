@@ -20,8 +20,6 @@ redirect_from:
 </style>
 
 <div class="cv-profile-header">
-  <h2>{{ site.author.name }}</h2>
-  {% if site.author.bio %}<p class="cv-profile-bio">{{ site.author.bio }}</p>{% endif %}
 
   <ul class="cv-profile-contact">
     {% if site.author.email %}<li><i class="fas fa-fw fa-envelope"></i> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>{% endif %}
@@ -40,8 +38,7 @@ redirect_from:
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>
-
-<!-- <div class="wordwrap">You can also find my CV <a href="files/CV_Spring_2026.pdf">here</a>.</div> -->
+<br>
 
 Education
 ======
