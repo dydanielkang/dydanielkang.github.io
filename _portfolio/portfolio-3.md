@@ -55,11 +55,13 @@ This is probably my favorite Christmas hymn. I added some experimental accompani
 * The incomplete third verse uses the whole tone scale and other dissonant intervals.
 
 Angelus Ad Virginem Text
+
 | Original Latin | English Translation |
 | --- | --- |
 | angelus ad virginem subintrans in conclave<br>virginis formidinem demulcens inquit ave<br>ave regina virginum, caeli terraeque dominum<br>concipies et paries intacta, salutem hominum<br>tu porta caeli facta, medela criminum<br> | This is a blockquote inside a standard table. |
 
 Angelus Ad Virginem Text
+
 Original Latin | English Translation 
 angelus ad virginem subintrans in conclave<br>virginis formidinem demulcens inquit ave<br>ave regina virginum, caeli terraeque dominum<br>concipies et paries intacta, salutem hominum<br>tu porta caeli facta, medela criminum<br> | This is a blockquote inside a standard table.
 
