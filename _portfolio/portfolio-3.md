@@ -15,7 +15,7 @@ I experimented with mixing bubbly left hand chords and wavy right hand melody. C
 
 ### Little Tree
 
-A friend Luca Iallonardi had an awesome project of a choral piece based on the poem "little tree" by E. E. Cummings (below). I wrote a sketch of an art song on the same poem, but only for the first three stanzas. It's intended to have a singer and a piano accompaniment, but for now, everything's on the piano.
+A friend Luca Iallonardi had an awesome project of a choral piece based on the poem ["little tree" by E. E. Cummings](https://www.poetryfoundation.org/poems/47304/little-tree) (below). I wrote a sketch of an art song on the same poem, but only for the first three stanzas. It's intended to have a singer and a piano accompaniment, but for now, everything's on the piano.
 
 Some features:
 - Repeating minor 3rd intervals to mimic children singing (Luca's idea)
@@ -47,7 +47,7 @@ Some features:
   Your browser does not support the audio element.
 </audio>
 
-### Piano Arrangement of Angelus Ad Virginem
+### Piano Arrangement of [Angelus Ad Virginem](https://www.preces-latinae.org/thesaurus/BVM/AngelusAdVirg.html)
 
 This is probably my favorite Christmas hymn. I added some experimental accompaniments to the melody:
 * The first verse is accompanied by poppy rhythmic chords that emphasize chromaticity.
