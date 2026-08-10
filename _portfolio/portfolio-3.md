@@ -24,8 +24,8 @@ Some features:
 - The piece almost completes a whole cycle of fifths over 2 minutes, and frequent modulation is intended to give a sense of freshness, hopefully like how children view the world
 
 <blockquote>
-<pre>
 **little tree** *by E.E. Cummings*
+<pre>
 
 little tree
 little silent Christmas tree
