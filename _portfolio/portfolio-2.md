@@ -1,6 +1,6 @@
 ---
 title: "Korean Translation of Un Coup de Des"
-excerpt: "The first time the iconic Avant-Garde poem Un Coup de Des was translated in to Korean.<br/><img src='/images/un_coup_de_des.png' width='300'>"
+excerpt: "The first time the iconic Avant-Garde poem Un Coup de Des was translated in to Korean.<br/><img src='/images/un_coup_de_des.png' height='400'>"
 collection: portfolio
 ---
 

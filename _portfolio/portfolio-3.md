@@ -1,6 +1,6 @@
 ---
 title: "Three Piano Compositions"
-excerpt: "Three piano pieces I composed for fun.<br/><img src='/images/A bottle floating in sea.jpg' width='300'>"
+excerpt: "Three piano pieces I composed for fun.<br/><img src='/images/A bottle floating in sea.jpg' height='400'>"
 collection: portfolio
 ---
 
