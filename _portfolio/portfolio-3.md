@@ -43,7 +43,7 @@ only don't be afraid
 ...
 
 <audio controls>
-  <source src="http://dydanielkang.github.io/files/Little Tree Audio.wav3" type="audio/mpeg">
+  <source src="http://dydanielkang.github.io/files/Little Tree Audio.wav3" type="audio/wav3">
   Your browser does not support the audio element.
 </audio>
 

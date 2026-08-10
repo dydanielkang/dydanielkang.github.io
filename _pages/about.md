@@ -14,6 +14,8 @@ I am interested in the intersection of cognitive science/linguistics and artific
 
 I am also involved in AI safety. I am concerned with both societal and existential risks, as I view AI safety issues through the broad lens of automation.
 
+Feel free to reach out to me about anything. I am always happy to connect!
+
 ## Topics of Interest
 
 - Current and Past Research: Mechanistic Interpretability, Semantics and Pragmatics, Language Acquisition, Geometry and Graph Theory
