@@ -9,6 +9,6 @@ Classical composition performed at 2024 Fermata Spring Concert. The concert pain
 The audio attached here is a MIDI generated file. There was unfortunately no good audio recording of the concert.
 
 <audio controls>
-  <source src="/files/Echo's Heartbreak.mp3" type="audio/mpeg">
+  <source src="http://dydanielkang.github.io/files/Echo's Heartbreak.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
