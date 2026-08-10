@@ -24,27 +24,23 @@ Some features:
 - The piece almost completes a whole cycle of fifths over 2 minutes, and frequent modulation is intended to give a sense of freshness, hopefully like how children view the world
 
 > **little tree** *by E.E. Cummings*
-<blockquote>
-<pre>
+>
+> little tree
+> little silent Christmas tree
+> you are so little
+> you are more like a flower
+> 
+> who found you in the green forest
+> and were you very sorry to come away?
+> see          i will comfort you
+> because you smell so sweetly
 
-little tree
-little silent Christmas tree
-you are so little
-you are more like a flower
-
-who found you in the green forest
-and were you very sorry to come away?
-see          i will comfort you
-because you smell so sweetly
-
-i will kiss your cool bark
-and hug you safe and tight
-just as your mother would,
-only don't be afraid
-
-...
-</pre>
-</blockquote>
+> i will kiss your cool bark
+> and hug you safe and tight
+> just as your mother would,
+> only don't be afraid
+> 
+> ...
 
 <audio controls>
   <source src="/files/Little Tree Audio.wav" type="audio/wav">
