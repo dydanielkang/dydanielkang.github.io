@@ -9,31 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-{% include cv-template.html %}
-
 <style>
   .cv-profile-header { margin-bottom: 1.5em; }
   .cv-profile-header h2 { margin-bottom: 0.1em; }
   .cv-profile-bio { margin: 0.3em 0 0.6em; }
-  .cv-profile-meta, .cv-profile-links { list-style: none; margin: 0; padding: 0; }
-  .cv-profile-meta li, .cv-profile-links li { display: inline-block; margin: 0 1em 0.4em 0; }
+  .cv-profile-contact { list-style: none; margin: 0 0 0.8em; padding: 0; }
+  .cv-profile-contact li { display: block; margin-bottom: 0.3em; }
+  .cv-profile-links { list-style: none; margin: 0; padding: 0; }
+  .cv-profile-links li { display: inline-block; margin: 0 1.2em 0.4em 0; }
 </style>
 
 <div class="cv-profile-header">
   <h2>{{ site.author.name }}</h2>
   {% if site.author.bio %}<p class="cv-profile-bio">{{ site.author.bio }}</p>{% endif %}
 
-  <ul class="cv-profile-meta">
-    {% if site.author.employer %}<li><i class="fas fa-fw fa-building-columns"></i> {{ site.author.employer }}</li>{% endif %}
-    {% if site.author.location %}<li><i class="fas fa-fw fa-location-dot"></i> {{ site.author.location }}</li>{% endif %}
+  <ul class="cv-profile-contact">
     {% if site.author.email %}<li><i class="fas fa-fw fa-envelope"></i> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>{% endif %}
+    {% if site.author.phone %}<li><i class="fas fa-fw fa-phone"></i> {{ site.author.phone }}</li>{% endif %}
+    {% if site.author.location %}<li><i class="fas fa-fw fa-location-dot"></i> {{ site.author.location }}</li>{% endif %}
   </ul>
 
   <ul class="cv-profile-links">
-    {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a></li>{% endif %}
-    {% if site.author.orcid %}<li><a href="{{ site.author.orcid }}" target="_blank">ORCID</a></li>{% endif %}
-    {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}" target="_blank">GitHub</a></li>{% endif %}
-    {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank">LinkedIn</a></li>{% endif %}
+    {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}" target="_blank"><i class="ai ai-google-scholar ai-fw"></i> Google Scholar</a></li>{% endif %}
+    {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}" target="_blank"><i class="fab fa-fw fa-github"></i> GitHub</a></li>{% endif %}
+    {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin"></i> LinkedIn</a></li>{% endif %}
   </ul>
 </div>
 
@@ -62,7 +61,7 @@ Research Experience: CS & Math
 * Summer 2023: Brown University
   * Formulated and proved lemmas on the existence of periodic billiard paths for Ideal Hyperbolic Quadrilaterals under regular Euclidean billiard rules by creating simulation programs with Python
   * Informally shared work at Mathematikon in Heidelberg, Germany
-* 2020-2022Johns Hopkins University
+* 2020-2022: Johns Hopkins University
   * Proved a theorem on random graphs that entropy is the upper bound of the graph’s heterogeneity coefficient, starting a research project on a new information metric applicable to Information Theory and Machine Learning
 
 Research Experience: Linguistics & Others

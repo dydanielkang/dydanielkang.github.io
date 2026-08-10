@@ -25,13 +25,14 @@ author:
   # Biographic information
   avatar           : "bachelor_graduation.png"
   name             : "Daniel Kang"
-  pronouns         : "he/him"  
+  pronouns         : "he/him"
   bio              : "Towards a principled understanding of neural networks and the mind"
   home             : "Seoul, South Korea"
   location         : "Soon in the Bay Area"
   employer         : "Stanford University"
   uri              : # URL
-  email            : "dydanielkang@gmail.com" 
+  email            : "dydanielkang@gmail.com"
+  phone            : "+1 (650) 501-2423"
 
   # Academic websites
   academia         : # URL
