@@ -58,15 +58,9 @@ Angelus Ad Virginem Text
 
 | Original Latin | English Translation |
 | --- | --- |
-| angelus ad virginem subintrans in conclave<br>virginis formidinem demulcens inquit ave<br>ave regina virginum, caeli terraeque dominum<br>concipies et paries intacta, salutem hominum<br>tu porta caeli facta, medela criminum<br> | Angel to the virgin, secretly entering her room,<br>soothing the virgin's fear, he began, "Hail"<br>"Hail, the queen of the virgins, the Lord of Heaven and Earth<br>you will conceive and deliver intact, savior of mankind.<br>You are made the gate to Heaven, the remedy of sins."<br> |
+| angelus ad virginem subintrans in conclave<br>virginis formidinem demulcens inquit ave<br>ave regina virginum caeli terraeque dominum<br>concipies et paries intacta salutem hominum<br>tu porta caeli facta medela criminum<br> | Angel to the virgin, secretly entering her room,<br>soothing the virgin's fear, he began, "Hail"<br>"Hail, the queen of the virgins, the Lord of Heaven and Earth<br>you will conceive and deliver intact, savior of mankind.<br>You are made the gate to Heaven, the remedy of sins."<br> |
 | quomodo conciperem quae virum non cognovi<br>qualiter infringerem quae firma mente vovi<br>spiritus sancti gratia perficies haec omnia<br>ne timeas sed gaudeas secura quod castimonia<br>manebit in te pura dei potentia<br> | "How would I conceive if I have never known a man?<br>How could I infringe upon those I have vowed with a firm mind?"<br>"The grace of the Holy Spirit will take care of it all.<br>Do not fear but rejoice, for your chastity<br>will remain in you purely by God's power."<br> |
 | ad haec virgo nobilis respondens inquit ei<br>"ancilla sum humilis omnipotentis dei<br>...<br> | To this the noble virgin, responding, began to him,<br>"A humble servant am I of omnipotent God<br>...<br> |
-
-<p>Here is some introductory text that leads directly into the data table without any accidental margin gaps between the sentences and the data block:
-<table>
-  <tr><th>Item</th><th>Price</th></tr>
-  <tr><td>Apples</td><td>$1.50</td></tr>
-</table></p>
 
 <!-- Angelus Ad Virginem Text
 
