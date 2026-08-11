@@ -4,7 +4,7 @@ excerpt: "Three short piano pieces I composed for fun.<br/><img src='/images/A b
 collection: portfolio
 ---
 
-### An Empty Bottle Floating in the Ocean
+## An Empty Bottle Floating in the Ocean
 
 I experimented with mixing bubbly left hand chords and wavy right hand melody. Chord progressions were designed to be soft and melancholy to represent forgotten hope that is also quietly persevering somewhere.
 
@@ -13,7 +13,7 @@ I experimented with mixing bubbly left hand chords and wavy right hand melody. C
   Your browser does not support the audio element.
 </audio>
 
-### Little Tree
+## Little Tree
 
 A friend Luca Iallonardi had an awesome project of a choral piece based on the poem ["little tree" by E. E. Cummings](https://www.poetryfoundation.org/poems/47304/little-tree) (excerpt below). I wrote a sketch of an art song on the same poem, but only for the first three stanzas. It's intended to have a singer and a piano accompaniment, but for now, everything's on the piano.
 
@@ -47,7 +47,7 @@ Some features:
   Your browser does not support the audio element.
 </audio>
 
-### Piano Arrangement of [Angelus Ad Virginem](https://www.preces-latinae.org/thesaurus/BVM/AngelusAdVirg.html)
+## Piano Arrangement of [Angelus Ad Virginem](https://www.preces-latinae.org/thesaurus/BVM/AngelusAdVirg.html)
 
 This is probably my favorite Christmas hymn. I added some experimental accompaniments to the melody:
 * The first verse is accompanied by poppy rhythmic chords that emphasize chromaticity.
@@ -60,6 +60,13 @@ Angelus Ad Virginem Text
 | --- | --- |
 | angelus ad virginem subintrans in conclave<br>virginis formidinem demulcens inquit ave<br>ave regina virginum, caeli terraeque dominum<br>concipies et paries intacta, salutem hominum<br>tu porta caeli facta, medela criminum<br> | Angel to the virgin, secretly entering her room,<br>soothing the virgin's fear, he began, "Hail"<br>"Hail, the queen of the virgins, the Lord of Heaven and Earth<br>you will conceive and deliver intact, savior of mankind.<br>You are made the gate to Heaven, the remedy of sins."<br> |
 | quomodo conciperem quae virum non cognovi<br>qualiter infringerem quae firma mente vovi<br>spiritus sancti gratia perficies haec omnia<br>ne timeas sed gaudeas secura quod castimonia<br>manebit in te pura dei potentia<br> | "How would I conceive if I have never known a man?<br>How could I infringe upon those I have vowed with a firm mind?"<br>"The grace of the Holy Spirit will take care of it all.<br>Do not fear but rejoice, for your chastity<br>will remain in you purely by God's power."<br> |
+| ad haec virgo nobilis respondens inquit ei<br>"ancilla sum humilis omnipotentis dei<br>...<br> | To this the noble virgin, responding, began to him,<br>"A humble servant am I of omnipotent God<br>...<br> |
+
+<p>Here is some introductory text that leads directly into the data table without any accidental margin gaps between the sentences and the data block:
+<table>
+  <tr><th>Item</th><th>Price</th></tr>
+  <tr><td>Apples</td><td>$1.50</td></tr>
+</table></p>
 
 <!-- Angelus Ad Virginem Text
 
@@ -85,3 +92,5 @@ angelus ad virginem subintrans in conclave<br>virginis formidinem demulcens inqu
   <source src="/files/Angelus Ad Virginem Piano.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
+<img src='/images/annunciation.jpg' style='height:400px; width:auto;'>
